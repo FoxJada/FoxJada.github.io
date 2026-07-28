@@ -17,6 +17,33 @@ A 12-page literature review examining PMMA's structure-property relationships an
 [View PDF](/PMMA%20Independent%20Study%20Research%20Paper.pdf)
 
 ---
+## Group Projects
+
+### Testing Heat-Treated 1080 Steel – Sophomore Design Poster
+*UConn Materials Science & Engineering | Co-authors: Veronica Ayen*
+
+- Designed and executed an experiment to investigate the effects of cooling rate on the microstructure and mechanical properties of 1080 steel
+- Heat-treated samples using water quenching (martensite formation) and furnace cooling (pearlite formation) after austenitization at 850°C
+- Performed Rockwell A hardness testing, Charpy V-notch impact testing, and three-point bend testing
+- Conducted microstructural analysis using optical microscopy to correlate heat treatment with resulting grain structure
+- **Key finding:** Water quenching produced a hard (62–65 HRA) but brittle (5 ft-lb) martensitic structure; furnace cooling produced a soft (40 HRA) but tough (60 ft-lb) pearlitic structure
+- Demonstrated fundamental understanding of structure-property-processing relationships in carbon steels
+
+[View Poster](/Testing_Heat_Treated_1080_Steel_Poster.pdf)
+
+
+### Targeted Reduction of Glutamate Excitotoxicity and Oxidative Stress in Amyotrophic Lateral Sclerosis (ALS)
+*MSE 3700 Biomaterials Group Project | UConn | Spring 2026*
+
+A collaborative research paper investigating therapeutic strategies for ALS through the targeted reduction of glutamate excitotoxicity and oxidative stress. As part of a team, I contributed to:
+
+- Research and writing on biomaterial-based approaches for neuroprotection
+- Analysis of drug delivery systems and their potential for targeted therapy
+- Literature review on oxidative stress mechanisms and glutamate toxicity in ALS pathology
+- Technical editing and formatting of the final manuscript
+
+[View PDF](/MSE3700_Biomaterials_Paper.pdf)
+
 
 ## Professional Experience
 
