@@ -29,7 +29,7 @@ A 12-page literature review examining PMMA's structure-property relationships an
 - **Key finding:** Water quenching produced a hard (62–65 HRA) but brittle (5 ft-lb) martensitic structure; furnace cooling produced a soft (40 HRA) but tough (60 ft-lb) pearlitic structure
 - Demonstrated fundamental understanding of structure-property-processing relationships in carbon steels
 
-[View PDF](/MSE_Sophomore_Design_Poster.pdf)
+[View PDF](/MSE%20Sophomore%20Design%20Poster%20offix.-2.pdf)
 
 
 ### Targeted Reduction of Glutamate Excitotoxicity and Oxidative Stress in Amyotrophic Lateral Sclerosis (ALS)
