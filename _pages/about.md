@@ -5,6 +5,8 @@ title: "About Me"
 
 I'm a Materials Science & Engineering student at the University of Connecticut with R&D co-op experience at Entegris. I'm interested in semiconductor materials, failure analysis, process engineering, and the intersection of materials science with manufacturing.
 
+---
+
 ## Research & Projects
 
 ### PMMA: E-beam Lithography & Biomedical Applications
@@ -18,12 +20,16 @@ A 12-page literature review examining PMMA's structure-property relationships an
 
 [View PDF](/PMMA%20Independent%20Study%20Research%20Paper.pdf)
 
+---
+
 ### Electrochemical Catalyst Synthesis
 *Independent Study, UConn Department of Chemistry | Jun 2025 – Aug 2025*
 
 - Designed and executed experiments for electrochemical synthesis of novel catalysts
 - Evaluated performance using cyclic voltammetry and electrochemical impedance spectroscopy
 - Analyzed structure-activity relationships to correlate synthesis parameters with catalytic efficiency
+
+---
 
 ## Experience
 
@@ -35,17 +41,23 @@ A 12-page literature review examining PMMA's structure-property relationships an
 - Applied Six Sigma (DMAIC) tools to wet etch rate studies, reducing variability by 6%
 - Led a failure analysis project identifying root cause of a recurring defect, leading to corrective action that reduced estimated scrap by ~12%
 
+---
+
 ### Undergraduate Research Assistant – UConn Materials Science & Engineering
 *Aug 2025 – Present*
 
 - Perform wet/dry cyclic accelerated corrosion testing (ASTM standards) on steel specimens
 - Analyze corrosion-rate data for 10+ alloy variants; deliver technical recommendations for material selection
 
+---
+
 ## Technical Skills
 
 - **Materials Characterization:** Corrosion Testing, Failure Analysis, Microstructure Analysis, Surface Roughness, Cyclic Voltammetry, EIS
 - **Quality & Process Improvement:** Lean Principles, Root Cause Analysis, DMAIC, Work Instruction Development
 - **Coding:** MATLAB, Python, Data Analysis, Visualization
+
+---
 
 ## Connect
 
