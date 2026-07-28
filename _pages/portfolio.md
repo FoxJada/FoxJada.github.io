@@ -29,7 +29,7 @@ A 12-page literature review examining PMMA's structure-property relationships an
 - **Key finding:** Water quenching produced a hard (62–65 HRA) but brittle (5 ft-lb) martensitic structure; furnace cooling produced a soft (40 HRA) but tough (60 ft-lb) pearlitic structure
 - Demonstrated fundamental understanding of structure-property-processing relationships in carbon steels
 
-[View Poster](/Testing_Heat_Treated_1080_Steel_Poster.pdf)
+[View PDF](/MSE_Sophomore_Design_Poster.pdf)
 
 
 ### Targeted Reduction of Glutamate Excitotoxicity and Oxidative Stress in Amyotrophic Lateral Sclerosis (ALS)
@@ -42,7 +42,7 @@ A collaborative research paper investigating therapeutic strategies for ALS thro
 - Literature review on oxidative stress mechanisms and glutamate toxicity in ALS pathology
 - Technical editing and formatting of the final manuscript
 
-[View PDF](/MSE3700_Biomaterials_Paper.pdf)
+[View PDF](/Final%20Paper.pdf)
 
 
 ## Professional Experience
