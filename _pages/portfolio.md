@@ -19,17 +19,16 @@ A 12-page literature review examining PMMA's structure-property relationships an
 ---
 ## Group Projects
 
-### Testing Heat-Treated 1080 Steel – Sophomore Design Poster
+### Testing Heat-Treated 1080 Steel – Sophmore Design Poster
 *UConn Materials Science & Engineering | Co-authors: Veronica Ayen*
 
-- Designed and executed an experiment to investigate the effects of cooling rate on the microstructure and mechanical properties of 1080 steel
-- Heat-treated samples using water quenching (martensite formation) and furnace cooling (pearlite formation) after austenitization at 850°C
+- Investigated the effect of cooling rate on 1080 steel microstructure and mechanical properties
+- Heat-treated samples via water quenching (martensite formation) and furnace cooling (pearlite formation) after austenitization at 850°C
 - Performed Rockwell A hardness testing, Charpy V-notch impact testing, and three-point bend testing
-- Conducted microstructural analysis using optical microscopy to correlate heat treatment with resulting grain structure
 - **Key finding:** Water quenching produced a hard (62–65 HRA) but brittle (5 ft-lb) martensitic structure; furnace cooling produced a soft (40 HRA) but tough (60 ft-lb) pearlitic structure
 - Demonstrated fundamental understanding of structure-property-processing relationships in carbon steels
 
-[View PDF](/MSE%20Sophomore%20Design%20Poster%20offix.-2.pdf)
+[View PDF](/MSE%20Sophmore%20Design%20Poster%20offix.-3.pdf)
 
 
 ### Targeted Reduction of Glutamate Excitotoxicity and Oxidative Stress in Amyotrophic Lateral Sclerosis (ALS)
