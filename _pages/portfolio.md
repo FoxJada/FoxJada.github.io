@@ -18,6 +18,18 @@ A 12-page literature review examining PMMA's structure-property relationships an
 
 ---
 
+## Professional Experience
+
+### Student Lab and Field Analyst Assistant
+*Institute of Material Science and Sustainability (IMSS), UConn | May 2025 – Present*
+
+- Conduct accelerated corrosion testing on A36 carbon steel and A588 high-strength low-alloy steel using NaCl and simulated seawater solutions
+- Prepare and maintain test setups, monitor corrosion behavior, and perform post-test analyses
+- Contribute to technical reports, research publications, and collaborative team projects
+
+---
+
+
 ## Independent Projects
 
 ### Electrochemical Catalyst Synthesis
@@ -27,6 +39,12 @@ A 12-page literature review examining PMMA's structure-property relationships an
 - Evaluated performance using cyclic voltammetry and electrochemical impedance spectroscopy
 - Analyzed structure-activity relationships to correlate synthesis parameters with catalytic efficiency
 
+### Mars Exhibition Project
+*UConn | Feb 2023 – May 2023*
+
+- Designed a gel electrophoresis system to analyze DNA samples under extreme conditions
+- Optimized polymer-based gel matrices and led a team in system development and testing
+  
 ---
 
 ## Personal Projects
