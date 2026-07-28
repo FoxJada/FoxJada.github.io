@@ -9,7 +9,7 @@ I'm a Materials Science & Engineering student at the University of Connecticut w
 
 ## Research & Projects
 
-### PMMA: E-beam Lithography & Biomedical Applications
+### Polymethyl Methacrylate (PMMA): Structure, Processing, and Applications
 *Independent Study, UConn Dept. of Materials Science & Engineering | Spring 2026*
 
 A 12-page literature review examining PMMA's structure-property relationships and its dual role in orthopedic bone cement and semiconductor e-beam lithography.
