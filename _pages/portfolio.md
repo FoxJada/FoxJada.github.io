@@ -8,7 +8,7 @@ permalink: /portfolio/
 ### PMMA: E-beam Lithography & Biomedical Applications
 *Independent Study, UConn Department of Materials Science & Engineering | Spring 2026*
 
-A 12-page literature review examining PMMA's structure-property relationships and its dual role in orthopedic bone cement and semiconductor e-beam lithography.
+Wrote a 12-page literature review examining PMMA's structure-property relationships and its dual role in orthopedic bone cement and semiconductor e-beam lithography.
 
 - Analyzed PMMA as a positive-tone e-beam resist, focusing on chain scission mechanisms, molecular weight effects on resolution, and sub-10 nm pattern definition
 - Evaluated hybrid metal oxide systems and directed self-assembly (DSA) for EUV lithography
