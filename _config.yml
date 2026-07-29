@@ -23,7 +23,7 @@ repository               : "FoxJada/FoxJada.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "headshot.jpg"
   name             : "Jada Fox"
   pronouns         : "She/Her" 
   bio              : "Materials Science & Engineering student at UConn with R&D co-op experience at Entegris. Interested in semiconductor materials, failure analysis, and process engineering."
