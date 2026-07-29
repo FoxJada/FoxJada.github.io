@@ -15,6 +15,7 @@ Wrote a 12-page literature review examining PMMA's structure-property relationsh
 - Demonstrated cross-disciplinary understanding of structure-property relationships in polymer processing for semiconductor and biomedical applications
 
 [View PDF](PMMA%20Independent%20Study%20Research%20Paper.pdf)
+
 ---
 ## Group Projects
 
