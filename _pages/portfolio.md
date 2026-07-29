@@ -94,7 +94,7 @@ ___
 ## Personal Projects
 
 ### Bluetooth CarPlay Radio Installation
-*2026*
+*May 2026 - June 2026*
 
 - Removed factory radio and installed aftermarket Bluetooth/CarPlay unit; wired harness adapter and integrated steering wheel controls
 - Diagnosed and resolved electrical compatibility issues through multimeter testing and wiring modifications
