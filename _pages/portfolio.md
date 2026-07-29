@@ -71,9 +71,9 @@ ___
 - Designed a gel electrophoresis system to analyze DNA samples under extreme conditions
 - Optimized polymer-based gel matrices and led a team in system development and testing
 - Collaborated with a multidisciplinary team (Biomedical, Mechanical, and Chemical Engineering)
+
  **|Embedded Presentation Link of Project Description Located Here:**
 <br>
-
 <div style="text-align: center; margin: 20px 0;">
   <iframe 
     src="https://uconn-my.sharepoint.com/personal/jada_fox_uconn_edu/_layouts/15/Doc.aspx?sourcedoc={947dc53e-1561-4416-9985-5390f1d9ab72}&amp;action=embedview&amp;wdAr=1.7777777777777777" 
