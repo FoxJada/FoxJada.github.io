@@ -28,7 +28,7 @@ A 12-page literature review examining PMMA's structure-property relationships an
 - **Key finding:** Water quenching produced a hard (62–65 HRA) but brittle (5 ft-lb) martensitic structure; furnace cooling produced a soft (40 HRA) but tough (60 ft-lb) pearlitic structure
 - Demonstrated fundamental understanding of structure-property-processing relationships in carbon steels
 
-**Attached Sophomore Design Poster Showcased Here:*
+*Attached Sophomore Design Poster Showcased Here:*
 <br>
 
 <div style="text-align: center; margin: 20px 0;">
