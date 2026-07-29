@@ -65,13 +65,14 @@ ___
 - Evaluated performance using cyclic voltammetry and electrochemical impedance spectroscopy
 - Analyzed structure-activity relationships to correlate synthesis parameters with catalytic efficiency
 
-### Mars Exhibition Project
-*UConn | Feb 2023 – May 2023*
+## Mars Exhibition Project
+**UConn | Feb 2023 – May 2023**
 
 - Designed a gel electrophoresis system to analyze DNA samples under extreme conditions
 - Optimized polymer-based gel matrices and led a team in system development and testing
-  
-<#### Full Presentation (with Videos)
+- Collaborated with a multidisciplinary team (Biomedical, Mechanical, and Chemical Engineering)
+
+<br>
 
 <div style="text-align: center; margin: 20px 0;">
   <iframe 
@@ -86,7 +87,9 @@ ___
     <em>Click the arrows to navigate through the presentation. Videos play automatically.</em>
   </p>
 </div>
+
 ---
+
 
 ## Personal Projects
 
