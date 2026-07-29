@@ -52,7 +52,8 @@ A collaborative research paper investigating therapeutic strategies for ALS thro
 - Conduct accelerated corrosion testing on A36 carbon steel and A588 high-strength low-alloy steel using NaCl and simulated seawater solutions
 - Prepare and maintain test setups, monitor corrosion behavior, and perform post-test analyses
 - Contribute to technical reports, research publications, and collaborative team projects
-
+  
+<iframe src="https://uconn-my.sharepoint.com/personal/jada_fox_uconn_edu/_layouts/15/Doc.aspx?sourcedoc={947dc53e-1561-4416-9985-5390f1d9ab72}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0" title="PowerPoint Viewer">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 ---
 
 
