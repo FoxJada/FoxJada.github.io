@@ -71,7 +71,7 @@ ___
 - Designed a gel electrophoresis system to analyze DNA samples under extreme conditions
 - Optimized polymer-based gel matrices and led a team in system development and testing
 - Collaborated with a multidisciplinary team (Biomedical, Mechanical, and Chemical Engineering)
-**Embedded Presentation Link of Project Description Located Here: **
+## Embedded Presentation Link of Project Description Located Here:
 <br>
 
 <div style="text-align: center; margin: 20px 0;">
