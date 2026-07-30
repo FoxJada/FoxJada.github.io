@@ -28,22 +28,7 @@ Wrote a 12-page literature review examining PMMA's structure-property relationsh
 - **Key finding:** Water quenching produced a hard (62–65 HRA) but brittle (5 ft-lb) martensitic structure; furnace cooling produced a soft (40 HRA) but tough (60 ft-lb) pearlitic structure
 - Demonstrated fundamental understanding of structure-property-processing relationships in carbon steels
 
-*Attached Sophomore Design Poster Showcased Here:*
-<br>
-
-<div style="text-align: center; margin: 20px 0;">
-  <iframe 
-    src="https://uconn-my.sharepoint.com/personal/jada_fox_uconn_edu/_layouts/15/Doc.aspx?sourcedoc={e4006556-0d59-4791-a7d6-a58a57c3b229}&amp;action=embedview&amp;wdAr=0.6666666666666666" 
-    width="100%" 
-    height="550px" 
-    frameborder="0" 
-    style="border:1px solid #e0e0e0; border-radius:10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-width: 900px;"
-    title="MSE Sophomore Design Poster – Testing Heat-Treated 1080 Steel">
-  </iframe>
-  <p style="font-size: 14px; color: #666; margin-top: 8px;">
-    <em>Click the arrows to navigate through the poster.</em>
-  </p>
-</div>
+[View Poster PDF](/MSE_Sophomore_Design_Poster.png)
 
 ---
 
@@ -90,20 +75,7 @@ ___
 - Collaborated with a multidisciplinary team (Biomedical, Mechanical, and Chemical Engineering)
 
  **Full Presentation:**
-<br>
-<div style="text-align: center; margin: 20px 0;">
-  <iframe 
-    src="https://uconn-my.sharepoint.com/personal/jada_fox_uconn_edu/_layouts/15/Doc.aspx?sourcedoc={947dc53e-1561-4416-9985-5390f1d9ab72}&amp;action=embedview&amp;wdAr=1.7777777777777777" 
-    width="100%" 
-    height="500px" 
-    frameborder="0" 
-    style="border:1px solid #e0e0e0; border-radius:10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-width: 900px;"
-    title="Mars Exhibition Project Presentation">
-  </iframe>
-  <p style="font-size: 14px; color: #666; margin-top: 8px;">
-    <em>Click the arrows to navigate through the presentation. Videos play automatically.</em>
-  </p>
-</div>
+[View my Mars Exhibition Project Presentation](/YOUR_FILE_NAME.pdf)
 
 ---
 ---
