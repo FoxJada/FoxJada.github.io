@@ -75,7 +75,7 @@ ___
 - Collaborated with a multidisciplinary team (Biomedical, Mechanical, and Chemical Engineering)
 
  **Full Presentation:**
-[View my Mars Exhibition Project Presentation](/YOUR_FILE_NAME.pdf)
+[View my Mars Exhibition Project Presentation](/Mars_Exhibition_Project.pdf)
 
 ---
 ---
