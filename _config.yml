@@ -19,7 +19,7 @@ repository               : "FoxJada/FoxJada.github.io"
 
 # Site Author
 author:
-  
+ show_avatar: false
   name                   : "Jada Fox"
   pronouns               : "She/Her"
   bio                    : "Materials Science & Engineering student at UConn with R&D co-op experience at Entegris. Interested in semiconductor materials, failure analysis, and process engineering."
