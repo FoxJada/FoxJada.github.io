@@ -6,7 +6,7 @@ permalink: /portfolio/
 
 ## Research Papers
 
-### PMMA: E-beam Lithography & Biomedical Applications
+### PMMA: Structure, Processing, and Applications in Biomedicine and Semiconductor Engineering                    
 *Independent Study, UConn Department of Materials Science & Engineering | Spring 2026*
 
 Wrote a 12-page literature review examining PMMA's structure-property relationships and its dual role in orthopedic bone cement and semiconductor e-beam lithography.
