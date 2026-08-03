@@ -1,1 +1,15 @@
-.page__sidebar { display: none !important; }
+/* =========================================================
+   KILL THE LEFT SIDEBAR ON ABOUT AND PORTFOLIO PAGES
+   ========================================================= */
+.page__sidebar {
+    display: none !important;
+}
+
+/* =========================================================
+   FORCE TEXT TO CENTER AND NOT STICK TO THE LEFT EDGE
+   ========================================================= */
+.page__content {
+    max-width: 900px !important;
+    margin: 0 auto !important; /* This is the magic line that centers it */
+    float: none !important;
+}
