@@ -1,12 +1,29 @@
-/* 1. HIDE THE SIDEBAR ON THE PORTFOLIO PAGE */
+/* Hide sidebar */
 .page__sidebar {
-    display: none !important;
+    display: none;
 }
 
-/* 2. FORCE THE MAIN TEXT CONTAINER TO CENTER (This is the fix!) */
-#main, .archive, .page, article {
-    max-width: 900px !important;
+/* Make the page use the full width */
+.page {
+    float: none !important;
+    width: 100% !important;
+    padding-right: 0 !important;
+}
+
+/* Remove the left offset reserved for the sidebar */
+.archive,
+.page,
+.layout--single .page {
     margin-left: auto !important;
     margin-right: auto !important;
-    float: none !important;
+}
+
+/* Center the content */
+.page__inner-wrap {
+    max-width: 1050px;
+    margin: 0 auto !important;
+}
+
+.page__content {
+    max-width: 100%;
 }
