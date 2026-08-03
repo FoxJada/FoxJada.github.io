@@ -3,11 +3,6 @@ layout: single
 title: About Me
 permalink: /
 ---
----
-layout: single
-title: About Me
-permalink: /
----
 
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-bottom: 30px; border-bottom: 1px solid #ddd; padding-bottom: 20px;">
     
