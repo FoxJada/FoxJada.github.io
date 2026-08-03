@@ -20,7 +20,7 @@ Wrote a 12-page literature review examining PMMA's structure-property relationsh
 ## Group Projects
 
 ### Testing Heat-Treated 1080 Steel
-*Sophomore Design Project • UConn Materials Science & Engineering*
+*Sophomore Design Project | UConn Materials Science & Engineering*
 *Co-authors: Veronica Ayen*
 
 **Overview:**
@@ -46,7 +46,7 @@ How does cooling rate (water quenching vs. furnace cooling) influence the hardne
 
 ---
 ### Targeted Reduction of Glutamate Excitotoxicity and Oxidative Stress in Amyotrophic Lateral Sclerosis (ALS)
-*MSE 3700 Biomaterials Group Project • UConn • Spring 2026*
+*MSE 3700 Biomaterials Group Project | UConn | Spring 2026*
 
 **Objective:**
 How can biomaterial-based drug delivery systems be engineered to simultaneously mitigate glutamate excitotoxicity and oxidative stress two key pathological mechanisms in ALS progression?
