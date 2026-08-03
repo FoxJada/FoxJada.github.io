@@ -3,7 +3,7 @@ layout: page
 title: Portfolio
 permalink: /portfolio/
 ---
-
+<div style="max-width: 900px; margin: 0 auto;">
 ## Research Papers
 
 ### PMMA: E-beam Lithography & Biomedical Applications
@@ -163,3 +163,4 @@ Wrote a 12-page literature review examining PMMA's structure-property relationsh
 
 **Deliverables:** 
 ![Installation Photo](/c6e23dbdaa5e1a7bbf43f6b87b30ebf5.jpg)
+</div>
