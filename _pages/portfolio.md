@@ -131,23 +131,10 @@ How can a gel electrophoresis system be engineered to reliably separate and anal
 **Deliverables**
 [View my Mars Exhibition Project Presentation](/Mars_Exhibition_Project.pdf)
 
----
-layout: post
-title: "CRB Air Filter: Ventilation & Filtration System"
-date: 2026-08-03
-categories: projects
----
+### CRB Air Filter: Ventilation & Filtration System
+*Hands-on fabrication, air sealing, and structural assembly.*
 
-## Project Summary
-Designed to test previously built CRB ventilation boxes by filtering polluted air in an enclosed room (simulated via humidifier). Measured air quality changes over time to validate effectiveness.
-
-## My Contribution (Fabrication & Stability)
-- **Structural Foundation:** Arranged four filtration systems into an 'L' formation to create a 90-degree cube foundation for the fan.
-- **Air Sealing:** Applied duct tape to prevent air leakage, ensuring the system maintained structural integrity.
-- **Fan Support:** Custom-cut cardboard packaging into a "headboard" support to stabilize the fan and allow secure connection to the filters.
-
-[⬇️ View the full slide deck (PDF)](/Engineering%20Portfolio-%20CRB%20Air%20Filter.pdf)
-
+**[Read the project summary](/2026/08/03/CRB-Air-Filter.html)** | **[Download the PDF](/Engineering%20Portfolio-%20CRB%20Air%20Filter.pdf)**
 ---
 
 ## Personal Projects
