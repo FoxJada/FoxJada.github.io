@@ -22,7 +22,6 @@ permalink: /
     </div>
 </div>
 
-
 I'm a Materials Science & Engineering student at the University of Connecticut with R&D co-op experience at Entegris. I'm interested in semiconductor materials, failure analysis, process engineering, and the intersection of materials science with manufacturing.
 
 ---
