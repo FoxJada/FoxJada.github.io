@@ -3,7 +3,8 @@ layout: single
 title: About Me
 permalink: /
 ---
-
+<div style="max-width: 900px; margin: 0 auto; padding: 0 20px;">
+  
 ## Research & Projects
 
 ### PMMA: Structure, Processing, and Applications
@@ -45,3 +46,5 @@ A collaborative research paper investigating therapeutic strategies for ALS thro
 - [LinkedIn](https://linkedin.com/in/jada-fox-aba5432b)
 - [GitHub](https://github.com/FoxJada)
 - [Email](mailto:jada.fox@uconn.edu)
+
+</div>
