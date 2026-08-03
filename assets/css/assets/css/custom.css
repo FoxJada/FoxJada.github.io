@@ -1,22 +1,23 @@
-/* 1. HIDE THE LEFT SIDEBAR ON EVERY PAGE */
-.page__sidebar {
+/* =========================================================
+   1. ULTIMATE SIDEBAR KILLER (Fixes the duplicate bio!)
+   ========================================================= */
+/* Hide the sidebar section entirely */
+.page__sidebar, .sidebar, .author__avatar, .author__content {
     display: none !important;
 }
 
-/* 2. MAKE THE MAIN CONTENT TAKE UP THE FULL WIDTH */
-.page__content, .page__main {
+/* Force the main content to be the full width */
+.page__content, .page__main, .archive {
     width: 100% !important;
     max-width: 100% !important;
     margin-left: 0 !important;
+    padding-left: 10% !important; /* Center the text with 10% padding on both sides */
+    padding-right: 10% !important;
 }
 
-/* 3. ADD BREATHING ROOM TO THE LEFT (Fixes the skewed look!) */
-.page__content {
-    padding-left: 40px !important;
-    padding-right: 40px !important;
-}
-
-/* 4. Optional: Force avatar to be a small circle */
+/* =========================================================
+   2. KEEP YOUR PROFILE PICTURE CIRCLE
+   ========================================================= */
 .author__avatar img {
     max-width: 120px !important;
     max-height: 120px !important;
@@ -24,4 +25,17 @@
     height: 120px !important;
     object-fit: cover !important;
     border-radius: 50% !important;
+}
+
+/* =========================================================
+   3. FIX THE PORTFOLIO PAGE SKEW (If it's still skewed)
+   ========================================================= */
+/* Specifically target the portfolio content to center it better */
+.page__content h2, 
+.page__content h3, 
+.page__content p, 
+.page__content ul {
+    max-width: 900px; /* Prevents text from stretching too wide */
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
