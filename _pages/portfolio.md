@@ -149,7 +149,7 @@ How can a gel electrophoresis system be engineered to reliably separate and anal
 - Verified the system's ability to measurably filter air quality within the enclosed test environment.
 - Demonstrated effective collaboration and physical fabrication skills within a cross-disciplinary engineering team.
 
-**Deliverables:** [⬇️ View my CRB Air Filter Slide Deck (PDF)](/Engineering%20Portfolio-%20CRB%20Air%20Filter.pdf)
+**Deliverables:** [View my CRB Air Filter Slide Deck (PDF)](/Engineering%20Portfolio-%20CRB%20Air%20Filter.pdf)
 
 ---
 
