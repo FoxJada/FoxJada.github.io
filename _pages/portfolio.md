@@ -166,13 +166,10 @@ layout: page
 title: Portfolio
 permalink: /portfolio/
 ---
+### CRB Air Filter: Ventilation & Filtration System
+*Engineering 1166 Team Project | Spring 2026*
 
-(Put your existing portfolio text here...)
+Designed and assembled a CRB ventilation filtration system to remove air pollution in enclosed rooms. My role focused on structural fabrication, including establishing an 'L' formation foundation, applying air seals to prevent leakage, and creating a custom cardboard support system to stabilize the fan.
 
-## CRB Air Filter
-*The objective of this assignment was to test the previously built CRB ventilation boxes...*
-
-**[Go to full project page](/2026/08/03/CRB-Air-Filter.html)** | **[Download PDF](/Engineering%20Portfolio-%20CRB%20Air%20Filter.pdf)**
-
-
+**[View Project Page](/2026/08/03/CRB-Air-Filter.html)** | **[Download PDF](/Engineering%20Portfolio-%20CRB%20Air%20Filter.pdf)**
 
