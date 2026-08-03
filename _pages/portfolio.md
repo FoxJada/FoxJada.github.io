@@ -1,6 +1,10 @@
 ---
-title: "Portfolio"
-permalink: /portfolio/
+layout: single
+title: About Me
+permalink: /
+author_profile: false
+sidebar:
+  nav: false
 ---
 
 ## Research Papers
