@@ -135,7 +135,27 @@ How can a gel electrophoresis system be engineered to reliably separate and anal
 ## Personal Projects
 
 ### Bluetooth CarPlay Radio Installation
-*May 2026 - June 2026*
+*May 2026 – June 2026*
 
-- Removed factory radio and installed aftermarket Bluetooth/CarPlay unit; wired harness adapter and integrated steering wheel controls
-- Diagnosed and resolved electrical compatibility issues through multimeter testing and wiring modifications
+**Overview**
+Retrofitted an aftermarket Bluetooth/CarPlay infotainment system into a vehicle, integrating with existing electrical architecture while preserving factory steering wheel controls.
+
+**Objective**
+How can an aftermarket infotainment system be seamlessly integrated into a vehicle's existing electrical architecture while maintaining full functionality of factory steering wheel controls and avoiding CAN bus communication conflicts?
+
+**Methods**
+- Disassembled dashboard assembly and removed factory head unit
+- Fabricated custom wiring harness adapter to interface aftermarket unit with OEM connectors
+- Mapped steering wheel control signals using multimeter and identified resistance values for each button
+- Spliced and soldered connections with heat-shrink insulation for durability
+- Performed diagnostic testing of CAN bus and accessory power circuits to ensure proper communication
+- Secured mounting bracket modifications for proper chassis fitment
+
+**Key Results**
+- Successfully restored all steering wheel control functions using programmable interface module
+- Identified and resolved ground loop interference causing alternator whine through shielded wiring
+- Achieved clean installation with no visible wire exposure or dashboard gaps
+- Documented wiring diagram and pinout modifications for future reference
+
+**Deliverables**
+![Installation Photo](/c6e23dbdaa5e1a7bbf43f6b87b30ebf5.jpg)
