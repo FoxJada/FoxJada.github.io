@@ -32,15 +32,10 @@ author:
   github                 : "FoxJada"
   
 main:
-# Navigation
-main:
-# Navigation
-main:
   - title: "About"
     url: /
   - title: "Portfolio"
     url: /portfolio/
-
 # Social
 social:
   - title: "GitHub"
