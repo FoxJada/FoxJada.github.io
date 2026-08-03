@@ -2,9 +2,9 @@
 layout: post
 title: "CRB Air Filter: Ventilation & Filtration System"
 date: 2026-08-03
-categories: projects engineering
-permalink: /posts/crb-air-filter
+categories: projects
 ---
+
 
 ## Project Objective
 The objective of this assignment was to test the previously built CRB ventilation boxes and filter the air quality in rooms that could have air pollution in them. To test this, we used a humidifier to 'pollute' an enclosed room and graphed the air quality measurements recorded over time to ensure that the CRB had done what it was designed to do.
