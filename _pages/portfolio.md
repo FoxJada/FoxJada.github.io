@@ -89,18 +89,18 @@ Wrote a 12-page literature review examining PMMA's structure-property relationsh
 ### Targeted Reduction of Glutamate Excitotoxicity and Oxidative Stress in ALS
 *MSE 3700 Biomaterials Group Project | UConn | Spring 2026*
 
-**Objective:** How can biomaterial-based drug delivery systems be engineered to simultaneously mitigate glutamate excitotoxicity and oxidative stress—two key pathological mechanisms in ALS progression?
+**Objective:** How can biomaterial based drug delivery systems be engineered to simultaneously mitigate glutamate excitotoxicity and oxidative stress two key pathological mechanisms in ALS progression?
 
 **Methods:**
 - Comprehensive literature review on ALS pathology (glutamate toxicity & oxidative stress mechanisms).
-- Evaluation of biomaterial-based neuroprotective strategies.
+- Evaluation of biomaterial based neuroprotective strategies.
 - Analysis of targeted drug delivery systems (nanoparticles, hydrogels, sustained-release platforms).
 - Comparative assessment of therapeutic efficacy and translational potential.
 
 **Key Results:**
 - Identified synergistic therapeutic targets combining excitotoxicity reduction and oxidative stress management.
 - Evaluated multiple biomaterial platforms for CNS delivery, highlighting challenges in blood-brain barrier penetration.
-- Proposed integrated approach using antioxidant-loaded nanoparticles with glutamate receptor antagonists.
+- Proposed integrated approach using antioxidant loaded nanoparticles with glutamate receptor antagonists.
 
 **Deliverables:** [📄 View PDF](/Final%20Paper.pdf)
 
@@ -111,7 +111,7 @@ Wrote a 12-page literature review examining PMMA's structure-property relationsh
 ### Student Lab and Field Analyst Assistant
 *Institute of Material Science and Sustainability (IMSS), UConn | May 2025 – Present*
 
-**Overview:** Investigated thermal effects on M50 steel microstructure to optimize retained austenite stability through controlled heat treatments, gaining hands-on experience in steel processing, metallurgical techniques, and lab troubleshooting.
+**Overview:** Investigated thermal effects on M50 steel microstructure to optimize retained austenite stability through controlled heat treatments, gaining hands on experience in steel processing, metallurgical techniques, and lab troubleshooting.
 
 **Objective:** How do different austenitizing temperatures (900°C, 1000°C, 1100°C) affect grain morphology and phase assemblage in M50 steel, and what cooling method best preserves microstructure without cracking?
 
