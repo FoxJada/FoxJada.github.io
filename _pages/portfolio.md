@@ -134,18 +134,22 @@ How can a gel electrophoresis system be engineered to reliably separate and anal
 ### CRB Air Filter: Ventilation & Filtration System
 *Engineering 1166 Team Project | Spring 2026*
 
-**Project Objective:**
-The objective of this assignment was to test the previously built CRB ventilation boxes and filter the air quality in rooms that could have air pollution in them. To test this, we used a humidifier to 'pollute' an enclosed room and graphed the air quality measurements recorded over time to ensure that the CRB had done what it was designed to do.
+**Overview:** Designed and assembled a CRB ventilation filtration system to remove particulate pollution from enclosed rooms, focusing on structural integrity, air sealing, and fan stability. Worked as part of a multidisciplinary engineering team to validate the system's effectiveness through environmental testing.
 
-**The Build Process:**
-We began our project by placing four of the filtration systems into an 'L' formation. This created the 90-degree angle needed to form a cube foundation for the fan to be placed. This part is essential to the entirety of the rest of the build. We then used duct tape to secure the placement of the filters and prevent the leakage of air. Without a stable and angled structure, the entire filtration system would have collapsed.
+**Objective:** How can a CRB ventilation filtration system be physically engineered to maintain structural integrity, prevent air leakage, and provide stable fan support to effectively remove air pollution from enclosed rooms?
 
-Once we created the foundation, we began the next vital step: creating support for the fan inside the filtration system. We carved the cardboard box packaging from the fan into a sort of headboard support system. This provided stability for the fan itself and allowed us to use tape to connect the fan to the rest of the filtration system.
+**Methods:**
+- Arranged four filtration systems into a 90-degree 'L' formation to establish the foundational cube structure for the fan unit.
+- Applied duct tape strategically to secure the filters and create airtight seals, preventing leakage and preserving filtration efficiency.
+- Designed and carved a custom cardboard "headboard" support system from the fan's packaging to stabilize the fan and allow for secure connection to the filtration base.
+- Validated the system by introducing humidifier vapor ("pollution") into a sealed room and graphing air quality measurements over time.
 
-**My Role:**
-I focused heavily on the physical construction, ensuring the structural integrity of the air seals and the fan support mechanism.
+**Key Results:**
+- Successfully constructed a stable, air-tight foundation that allowed the fan to function optimally without structural collapse.
+- Verified the system's ability to measurably filter air quality within the enclosed test environment.
+- Demonstrated effective collaboration and physical fabrication skills within a cross-disciplinary engineering team.
 
-**[⬇️ Download the full slide deck (PDF)](/Engineering%20Portfolio-%20CRB%20Air%20Filter.pdf)**
+**Deliverables:** [⬇️ View my CRB Air Filter Slide Deck (PDF)](/Engineering%20Portfolio-%20CRB%20Air%20Filter.pdf)
 
 ---
 
