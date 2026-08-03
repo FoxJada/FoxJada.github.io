@@ -17,5 +17,4 @@ Once we created the foundation, we began the next vital step: creating support f
 ## My Role
 I focused heavily on the physical construction, ensuring the structural integrity of the air seals and the fan support mechanism.
 
----
 **[⬇️ View the full slide deck (PDF)](/Engineering%20Portfolio-%20CRB%20Air%20Filter.pdf)**
