@@ -131,10 +131,6 @@ How can a gel electrophoresis system be engineered to reliably separate and anal
 **Deliverables**
 [View my Mars Exhibition Project Presentation](/Mars_Exhibition_Project.pdf)
 
-### CRB Air Filter: Ventilation & Filtration System
-*Hands-on fabrication, air sealing, and structural assembly.*
-
-**[Read the project summary](/2026/08/03/CRB-Air-Filter.html)** | **[Download the PDF](/Engineering%20Portfolio-%20CRB%20Air%20Filter.pdf)**
 ---
 
 ## Personal Projects
@@ -164,3 +160,19 @@ How can an aftermarket infotainment system be seamlessly integrated into a vehic
 
 **Deliverables:**
 ![Installation Photo](/c6e23dbdaa5e1a7bbf43f6b87b30ebf5.jpg)
+
+---
+layout: page
+title: Portfolio
+permalink: /portfolio/
+---
+
+(Put your existing portfolio text here...)
+
+## CRB Air Filter
+*The objective of this assignment was to test the previously built CRB ventilation boxes...*
+
+**[Go to full project page](/2026/08/03/CRB-Air-Filter.html)** | **[Download PDF](/Engineering%20Portfolio-%20CRB%20Air%20Filter.pdf)**
+
+
+
