@@ -23,45 +23,45 @@ Wrote a 12-page literature review examining PMMA's structure-property relationsh
 *Sophomore Design Project • UConn Materials Science & Engineering*
 *Co-authors: Veronica Ayen*
 
-**Overview**
+**Overview:**
 Investigated how cooling rate affects the microstructure and mechanical properties of 1080 steel to understand the structure-property-processing relationships in carbon steels.
 
-**Objective**
+**Objective:**
 How does cooling rate (water quenching vs. furnace cooling) influence the hardness, toughness, and bending strength of 1080 steel?
 
-**Methods**
+**Methods:**
 - Austenitized samples at 850°C
 - Water quenching vs. furnace cooling
 - Rockwell A hardness testing
 - Charpy V-notch impact testing
 - Three-point bend testing
 
-**Key Results**
+**Key Results:**
 - **Water quench:** 62–65 HRA hardness, ~5 ft-lb impact energy (martensitic structure)
 - **Furnace cool:** ~40 HRA hardness, ~60 ft-lb impact energy (pearlitic structure)
 - Demonstrated the classic trade-off between hardness and toughness in heat-treated steels
 
-**Deliverables**
+**Deliverables:**
 [View Poster PDF](/MSE_Sophomore_Design_Poster.jpg)
 
 ---
 
 
-**Objective**
+**Objective:**
 How can biomaterial-based drug delivery systems be engineered to simultaneously mitigate glutamate excitotoxicity and oxidative stress—two key pathological mechanisms in ALS progression?
 
-**Methods**
+**Methods:**
 - Comprehensive literature review on ALS pathology (glutamate toxicity & oxidative stress mechanisms)
 - Evaluation of biomaterial-based neuroprotective strategies
 - Analysis of targeted drug delivery systems (nanoparticles, hydrogels, sustained-release platforms)
 - Comparative assessment of therapeutic efficacy and translational potential
 
-**Key Results**
+**Key Results:**
 - Identified synergistic therapeutic targets combining excitotoxicity reduction and oxidative stress management
 - Evaluated multiple biomaterial platforms for CNS delivery, highlighting challenges in blood-brain barrier penetration and targeted release
 - Proposed integrated approach using antioxidant-loaded nanoparticles with glutamate receptor antagonists
 
-**Deliverables**
+**Deliverables:**
 [View PDF](/Final%20Paper.pdf)
 
 ---
