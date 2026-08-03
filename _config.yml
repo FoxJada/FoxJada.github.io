@@ -19,6 +19,7 @@ repository               : "FoxJada/FoxJada.github.io"
 
 # Site Author
 # Site Author
+# Site Author
 author:
   name                   : "Jada Fox"
   avatar                 : "/assets/images/white-Headshot-2.jpeg"
@@ -29,8 +30,7 @@ author:
   email                  : "jada.fox@uconn.edu"
   linkedin               : "jada-fox-aba5432b"
   github                 : "FoxJada"
-
-# Navigation
+  
 main:
 # Navigation
 main:
