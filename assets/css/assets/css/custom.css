@@ -1,25 +1,13 @@
-/* =========================================================
-   KILL THE LEFT SIDEBAR ON ABOUT AND PORTFOLIO PAGES
-   ========================================================= */
-.page__sidebar {
-    display: none !important;
+/* FORCE PORTFOLIO PAGE TO MATCH ABOUT PAGE FORMAT */
+.page__content {
+    max-width: 900px !important;  /* Keeps text from stretching too wide */
+    margin-left: auto !important; /* Centers the text in the middle */
+    margin-right: auto !important;/* Centers the text in the middle */
+    padding-left: 20px !important;
+    padding-right: 20px !important;
 }
 
-/* =========================================================
-   FORCE TEXT TO CENTER AND NOT STICK TO THE LEFT EDGE
-   ========================================================= */
-.page__content {
-    max-width: 900px !important;
-    margin: 0 auto !important; /* This is the magic line that centers it */
-    float: none !important;
-}
-/* =========================================================
-   CENTER THE PORTFOLIO PAGE TEXT (Fix the left skew!)
-   ========================================================= */
-.page__content {
-    max-width: 900px !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    float: none !important;
-    padding: 0 20px !important; /* Adds a little breathing room on mobile */
+/* KEEP THE SIDEBAR HIDDEN ON PORTFOLIO PAGE */
+.page__sidebar {
+    display: none !important;
 }
