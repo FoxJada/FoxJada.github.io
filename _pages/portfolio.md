@@ -49,7 +49,7 @@ How does cooling rate (water quenching vs. furnace cooling) influence the hardne
 *MSE 3700 Biomaterials Group Project • UConn • Spring 2026*
 
 **Objective:**
-How can biomaterial-based drug delivery systems be engineered to simultaneously mitigate glutamate excitotoxicity and oxidative stress—two key pathological mechanisms in ALS progression?
+How can biomaterial-based drug delivery systems be engineered to simultaneously mitigate glutamate excitotoxicity and oxidative stress two key pathological mechanisms in ALS progression?
 
 **Methods:**
 - Comprehensive literature review on ALS pathology (glutamate toxicity & oxidative stress mechanisms)
