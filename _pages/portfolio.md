@@ -91,7 +91,7 @@ How do different austenitizing temperatures (900°C, 1000°C, 1100°C) affect gr
 - Successfully processed 30+ samples with consistent grinding and polishing quality
 
 **Deliverables:**
- [Summer Research Presentation (Slides)](/My%20Summer%20Research.pptx)
+[Summer Research Presentation (PDF)](/My%20Summer%20Research.pdf)
   
 ___
 
