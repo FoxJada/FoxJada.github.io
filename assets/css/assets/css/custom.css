@@ -1,4 +1,4 @@
-/* 1. HIDE THE LEFT SIDEBAR ON EVERY PAGE (Fixes the Portfolio page) */
+/* 1. HIDE THE LEFT SIDEBAR ON EVERY PAGE */
 .page__sidebar {
     display: none !important;
 }
@@ -10,7 +10,13 @@
     margin-left: 0 !important;
 }
 
-/* 3. Force avatar to be a small circle (Just in case it ever shows up) */
+/* 3. ADD BREATHING ROOM TO THE LEFT (Fixes the skewed look!) */
+.page__content {
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+}
+
+/* 4. Optional: Force avatar to be a small circle */
 .author__avatar img {
     max-width: 120px !important;
     max-height: 120px !important;
