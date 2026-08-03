@@ -1,11 +1,41 @@
 ---
-layout: single
-title: About Me
-permalink: /
-author_profile: false
-sidebar:
-  nav: false
+layout: page
+title: Portfolio
+permalink: /portfolio/
 ---
+
+### PMMA: E-beam Lithography & Biomedical Applications
+*Independent Study, UConn Department of Materials Science & Engineering | Spring 2026*
+
+Wrote a 12-page literature review examining PMMA's structure-property relationships and its dual role in orthopedic bone cement and semiconductor e-beam lithography.
+
+- Analyzed PMMA as a positive-tone e-beam resist, focusing on chain scission mechanisms, molecular weight effects on resolution, and sub-10 nm pattern definition
+- Evaluated hybrid metal oxide systems and directed self-assembly (DSA) for EUV lithography
+- Demonstrated cross-disciplinary understanding of structure-property relationships in polymer processing for semiconductor and biomedical applications
+
+**[View PDF](/PMMA%20Independent%20Study%20Research%20Paper.pdf)**
+
+---
+
+### CRB Air Filter: Ventilation & Filtration System
+*Engineering 1166 Team Project | Spring 2026*
+
+**Overview:** Designed and assembled a CRB ventilation filtration system to remove particulate pollution from enclosed rooms, focusing on structural integrity, air sealing, and fan stability. Worked as part of a multidisciplinary engineering team to validate the system's effectiveness through environmental testing.
+
+**Objective:** How can a CRB ventilation filtration system be physically engineered to maintain structural integrity, prevent air leakage, and provide stable fan support to effectively remove air pollution from enclosed rooms?
+
+**Methods:**
+- Arranged four filtration systems into a 90-degree 'L' formation to establish the foundational cube structure for the fan unit.
+- Applied duct tape strategically to secure the filters and create airtight seals, preventing leakage and preserving filtration efficiency.
+- Designed and carved a custom cardboard "headboard" support system from the fan's packaging to stabilize the fan and allow for secure connection to the filtration base.
+- Validated the system by introducing humidifier vapor ("pollution") into a sealed room and graphing air quality measurements over time.
+
+**Key Results:**
+- Successfully constructed a stable, air-tight foundation that allowed the fan to function optimally without structural collapse.
+- Verified the system's ability to measurably filter air quality within the enclosed test environment.
+- Demonstrated effective collaboration and physical fabrication skills within a cross-disciplinary engineering team.
+
+**Deliverables:** [⬇️ View my CRB Air Filter Slide Deck (PDF)](/Engineering%20Portfolio-%20CRB%20Air%20Filter.pdf)
 
 ## Research Papers
 
