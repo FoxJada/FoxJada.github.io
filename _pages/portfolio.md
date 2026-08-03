@@ -19,32 +19,52 @@ Wrote a 12-page literature review examining PMMA's structure-property relationsh
 ---
 ## Group Projects
 
-### Testing Heat-Treated 1080 Steel – Sophomore Design Poster
-*UConn Materials Science & Engineering | Co-authors: Veronica Ayen*
+### Testing Heat-Treated 1080 Steel
+*Sophomore Design Project • UConn Materials Science & Engineering*
+*Co-authors: Veronica Ayen*
 
-- Investigated the effect of cooling rate on 1080 steel microstructure and mechanical properties
-- Heat-treated samples via water quenching (martensite formation) and furnace cooling (pearlite formation) after austenitization at 850°C
-- Performed Rockwell A hardness testing, Charpy V-notch impact testing, and three-point bend testing
-- **Key finding:** Water quenching produced a hard (62–65 HRA) but brittle (5 ft-lb) martensitic structure; furnace cooling produced a soft (40 HRA) but tough (60 ft-lb) pearlitic structure
-- Demonstrated fundamental understanding of structure-property-processing relationships in carbon steels
+**Overview**
+Investigated how cooling rate affects the microstructure and mechanical properties of 1080 steel to understand the structure-property-processing relationships in carbon steels.
 
+**Objective**
+How does cooling rate (water quenching vs. furnace cooling) influence the hardness, toughness, and bending strength of 1080 steel?
+
+**Methods**
+- Austenitized samples at 850°C
+- Water quenching vs. furnace cooling
+- Rockwell A hardness testing
+- Charpy V-notch impact testing
+- Three-point bend testing
+
+**Key Results**
+- **Water quench:** 62–65 HRA hardness, ~5 ft-lb impact energy (martensitic structure)
+- **Furnace cool:** ~40 HRA hardness, ~60 ft-lb impact energy (pearlitic structure)
+- Demonstrated the classic trade-off between hardness and toughness in heat-treated steels
+
+**Deliverables**
 [View Poster PDF](/MSE_Sophomore_Design_Poster.jpg)
 
 ---
 
 
-### Targeted Reduction of Glutamate Excitotoxicity and Oxidative Stress in Amyotrophic Lateral Sclerosis (ALS)
-*MSE 3700 Biomaterials Group Project | UConn | Spring 2026*
+**Objective**
+How can biomaterial-based drug delivery systems be engineered to simultaneously mitigate glutamate excitotoxicity and oxidative stress—two key pathological mechanisms in ALS progression?
 
-A collaborative research paper investigating therapeutic strategies for ALS through the targeted reduction of glutamate excitotoxicity and oxidative stress. As part of a team, I contributed to:
+**Methods**
+- Comprehensive literature review on ALS pathology (glutamate toxicity & oxidative stress mechanisms)
+- Evaluation of biomaterial-based neuroprotective strategies
+- Analysis of targeted drug delivery systems (nanoparticles, hydrogels, sustained-release platforms)
+- Comparative assessment of therapeutic efficacy and translational potential
 
-- Research and writing on biomaterial-based approaches for neuroprotection
-- Analysis of drug delivery systems and their potential for targeted therapy
-- Literature review on oxidative stress mechanisms and glutamate toxicity in ALS pathology
-- Technical editing and formatting of the final manuscript
+**Key Results**
+- Identified synergistic therapeutic targets combining excitotoxicity reduction and oxidative stress management
+- Evaluated multiple biomaterial platforms for CNS delivery, highlighting challenges in blood-brain barrier penetration and targeted release
+- Proposed integrated approach using antioxidant-loaded nanoparticles with glutamate receptor antagonists
 
+**Deliverables**
 [View PDF](/Final%20Paper.pdf)
 
+---
 
 ## Professional Experience
 
