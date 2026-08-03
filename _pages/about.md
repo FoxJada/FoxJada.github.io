@@ -4,46 +4,6 @@ title: About Me
 permalink: /
 ---
 
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-bottom: 30px; border-bottom: 1px solid #ddd; padding-bottom: 20px;">
-    
-    <!-- FIXED: Added border-radius: 50% to make it a circle -->
-    <img src="/white-Headshot-2.jpeg" alt="Jada Fox" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 15px;">
-    
-    <h2 style="margin: 0 0 5px 0; font-size: 1.8rem;">Jada Fox</h2>
-    <p style="margin: 0 0 5px 0; font-size: 1rem; color: #666;">She/Her</p>
-    
-    <p style="max-width: 600px; margin: 10px 0;">Materials Science & Engineering student at UConn with R&D co-op experience at Entegris. Interested in semiconductor materials, failure analysis, process engineering, and the intersection of materials science with manufacturing.</p>
-    
-    <!-- FIXED: Removed the emojis next to the links for a cleaner look -->
-    <div style="display: flex; gap: 15px; margin-top: 10px;">
-        <a href="mailto:jada.fox@uconn.edu" style="text-decoration: none; color: #0366d6;">Email</a>
-        <a href="https://linkedin.com/in/jada-fox-aba5432b" target="_blank" style="text-decoration: none; color: #0366d6;">LinkedIn</a>
-        <a href="https://github.com/FoxJada" target="_blank" style="text-decoration: none; color: #0366d6;">GitHub</a>
-    </div>
-</div>
-
----
-
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-bottom: 30px; border-bottom: 1px solid #ddd; padding-bottom: 20px;">
-    
-    <!-- FIXED: Added border-radius: 50% to make it a circle -->
-    <img src="/white-Headshot-2.jpeg" alt="Jada Fox" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 15px;">
-    
-    <h2 style="margin: 0 0 5px 0; font-size: 1.8rem;">Jada Fox</h2>
-    <p style="margin: 0 0 5px 0; font-size: 1rem; color: #666;">She/Her</p>
-    
-    <p style="max-width: 600px; margin: 10px 0;">Materials Science & Engineering student at UConn with R&D co-op experience at Entegris. Interested in semiconductor materials, failure analysis, process engineering, and the intersection of materials science with manufacturing.</p>
-    
-    <!-- FIXED: Removed the emojis next to the links for a cleaner look -->
-    <div style="display: flex; gap: 15px; margin-top: 10px;">
-        <a href="mailto:jada.fox@uconn.edu" style="text-decoration: none; color: #0366d6;">Email</a>
-        <a href="https://linkedin.com/in/jada-fox-aba5432b" target="_blank" style="text-decoration: none; color: #0366d6;">LinkedIn</a>
-        <a href="https://github.com/FoxJada" target="_blank" style="text-decoration: none; color: #0366d6;">GitHub</a>
-    </div>
-</div>
-
----
-
 ## Research & Projects
 
 ### PMMA: Structure, Processing, and Applications
