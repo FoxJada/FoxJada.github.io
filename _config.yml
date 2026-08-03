@@ -18,18 +18,17 @@ baseurl                  : ""
 repository               : "FoxJada/FoxJada.github.io"
 
 # Site Author
+# Site Author
 author:
-  show_avatar            : false
-  author_profile         : false 
   name                   : "Jada Fox"
+  avatar                 : "/assets/images/white-Headshot-2.jpeg"
   pronouns               : "She/Her"
-  bio                    : "Materials Science & Engineering student at UConn with R&D co-op experience at Entegris. Interested in semiconductor materials, failure analysis, and process engineering."
+  bio                    : "Materials Science & Engineering student at UConn with R&D co-op experience at Entegris. Interested in semiconductor materials, failure analysis, process engineering, and the intersection of materials science with manufacturing."
   location               : "Meriden, CT"
   employer               : "University of Connecticut"
   email                  : "jada.fox@uconn.edu"
   linkedin               : "jada-fox-aba5432b"
   github                 : "FoxJada"
-  future                 : true
 
 # Navigation
 main:
