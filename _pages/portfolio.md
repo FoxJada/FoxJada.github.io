@@ -131,6 +131,22 @@ How can a gel electrophoresis system be engineered to reliably separate and anal
 **Deliverables**
 [View my Mars Exhibition Project Presentation](/Mars_Exhibition_Project.pdf)
 
+### CRB Air Filter: Ventilation & Filtration System
+*Engineering 1166 Team Project | Spring 2026*
+
+**Project Objective:**
+The objective of this assignment was to test the previously built CRB ventilation boxes and filter the air quality in rooms that could have air pollution in them. To test this, we used a humidifier to 'pollute' an enclosed room and graphed the air quality measurements recorded over time to ensure that the CRB had done what it was designed to do.
+
+**The Build Process:**
+We began our project by placing four of the filtration systems into an 'L' formation. This created the 90-degree angle needed to form a cube foundation for the fan to be placed. This part is essential to the entirety of the rest of the build. We then used duct tape to secure the placement of the filters and prevent the leakage of air. Without a stable and angled structure, the entire filtration system would have collapsed.
+
+Once we created the foundation, we began the next vital step: creating support for the fan inside the filtration system. We carved the cardboard box packaging from the fan into a sort of headboard support system. This provided stability for the fan itself and allowed us to use tape to connect the fan to the rest of the filtration system.
+
+**My Role:**
+I focused heavily on the physical construction, ensuring the structural integrity of the air seals and the fan support mechanism.
+
+**[⬇️ Download the full slide deck (PDF)](/Engineering%20Portfolio-%20CRB%20Air%20Filter.pdf)**
+
 ---
 
 ## Personal Projects
@@ -162,14 +178,3 @@ How can an aftermarket infotainment system be seamlessly integrated into a vehic
 ![Installation Photo](/c6e23dbdaa5e1a7bbf43f6b87b30ebf5.jpg)
 
 ---
-layout: page
-title: Portfolio
-permalink: /portfolio/
----
-### CRB Air Filter: Ventilation & Filtration System
-*Engineering 1166 Team Project | Spring 2026*
-
-Designed and assembled a CRB ventilation filtration system to remove air pollution in enclosed rooms. My role focused on structural fabrication, including establishing an 'L' formation foundation, applying air seals to prevent leakage, and creating a custom cardboard support system to stabilize the fan.
-
-**[View Project Page](/2026/08/03/CRB-Air-Filter.html)** | **[Download PDF](/Engineering%20Portfolio-%20CRB%20Air%20Filter.pdf)**
-
