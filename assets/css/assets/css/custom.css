@@ -1,13 +1,12 @@
-/* FORCE PORTFOLIO PAGE TO MATCH ABOUT PAGE FORMAT */
-.page__content {
-    max-width: 900px !important;  /* Keeps text from stretching too wide */
-    margin-left: auto !important; /* Centers the text in the middle */
-    margin-right: auto !important;/* Centers the text in the middle */
-    padding-left: 20px !important;
-    padding-right: 20px !important;
-}
-
-/* KEEP THE SIDEBAR HIDDEN ON PORTFOLIO PAGE */
+/* 1. HIDE THE SIDEBAR ON THE PORTFOLIO PAGE */
 .page__sidebar {
     display: none !important;
+}
+
+/* 2. FORCE THE MAIN TEXT CONTAINER TO CENTER (This is the fix!) */
+#main, .archive, .page, article {
+    max-width: 900px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    float: none !important;
 }
