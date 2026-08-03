@@ -71,9 +71,27 @@ How can biomaterial-based drug delivery systems be engineered to simultaneously 
 ### Student Lab and Field Analyst Assistant
 *Institute of Material Science and Sustainability (IMSS), UConn | May 2025 – Present*
 
-- Conduct accelerated corrosion testing on A36 carbon steel and A588 high-strength low-alloy steel using NaCl and simulated seawater solutions
-- Prepare and maintain test setups, monitor corrosion behavior, and perform post-test analyses
-- Contribute to technical reports, research publications, and collaborative team projects
+**Overview:**
+Investigated thermal effects on M50 steel microstructure to optimize retained austenite stability through controlled heat treatments, gaining hands-on experience in steel processing, metallurgical techniques, and lab troubleshooting.
+
+**Objective:**
+How do different austenitizing temperatures (900°C, 1000°C, 1100°C) affect grain morphology and phase assemblage in M50 steel, and what cooling method best preserves microstructure without cracking?
+
+**Methods:**
+- Heat-treated samples at 900°C, 1000°C, and 1100°C using furnace
+- Compared oil quenching vs. air quenching cooling rates
+- Performed metallographic preparation: grinding with grit paper (various sizes), polishing to mirror finish
+- Analyzed microstructural differences using microscopy (post-electropolishing)
+- Tempered at 600°C, observing surface oxidation effects
+
+**Key Results:**
+- Oil quenching at 1100°C (60 min) caused cracking due to rapid cooling; air quenching eliminated cracking while maintaining similar austenite content
+- Blue oxide layer formed during 600°C tempering indicating surface oxidation
+- Identified optimal heat treatment parameters balancing cooling rate and structural integrity
+- Successfully processed 30+ samples with consistent grinding and polishing quality
+
+**Deliverables:**
+ [Summer Research Presentation (Slides)](/My%20Summer%20Research.pptx)
   
 ___
 
@@ -87,14 +105,28 @@ ___
 - Evaluated performance using cyclic voltammetry and electrochemical impedance spectroscopy
 - Analyzed structure-activity relationships to correlate synthesis parameters with catalytic efficiency
 
-## Mars Exhibition Project
-**UConn | Feb 2023 – May 2023**
+## Group Projects
 
-- Designed a gel electrophoresis system to analyze DNA samples under extreme conditions
-- Optimized polymer-based gel matrices and led a team in system development and testing
-- Collaborated with a multidisciplinary team (Biomedical, Mechanical, and Chemical Engineering)
+### Mars Exhibition Project
+*UConn | Feb 2023 – May 2023*
 
- **Full Presentation:**
+**Overview:**
+Designed and optimized a gel electrophoresis system capable of analyzing DNA samples under extreme Martian conditions, collaborating with a multidisciplinary engineering team.
+
+**Objective:**
+How can a gel electrophoresis system be engineered to reliably separate and analyze DNA samples under the low gravity, temperature fluctuations, and radiation exposure characteristic of Martian environments?
+
+**Methods:**
+- Designed polymer-based gel matrices optimized for extreme condition stability
+- Developed testing protocols simulating Martian environmental parameters
+- Led system development and iterative testing across Biomedical, Mechanical, and Chemical Engineering disciplines
+- Evaluated gel composition variations for performance under stress conditions
+
+**Key Results:**
+- [Add specific findings—e.g., optimal polymer formulation, separation resolution achieved, temperature range tested, or gravity simulation results]
+- Demonstrated feasibility of DNA analysis under simulated Martian conditions
+
+**Deliverables**
 [View my Mars Exhibition Project Presentation](/Mars_Exhibition_Project.pdf)
 
 ---
