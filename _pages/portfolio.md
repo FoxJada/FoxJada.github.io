@@ -124,8 +124,9 @@ How can a gel electrophoresis system be engineered to reliably separate and anal
 - Evaluated gel composition variations for performance under stress conditions
 
 **Key Results:**
-- [Add specific findings—e.g., optimal polymer formulation, separation resolution achieved, temperature range tested, or gravity simulation results]
-- Demonstrated feasibility of DNA analysis under simulated Martian conditions
+- Optimized polymer-based gel matrices for stability under simulated Martian conditions
+- Demonstrated feasibility of DNA analysis under extreme environmental parameters
+- Led multidisciplinary team through system development and testing phases
 
 **Deliverables**
 [View my Mars Exhibition Project Presentation](/Mars_Exhibition_Project.pdf)
