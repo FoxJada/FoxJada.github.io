@@ -1,4 +1,16 @@
-/* Force avatar to be a small circle */
+/* 1. HIDE THE LEFT SIDEBAR ON EVERY PAGE (Fixes the Portfolio page) */
+.page__sidebar {
+    display: none !important;
+}
+
+/* 2. MAKE THE MAIN CONTENT TAKE UP THE FULL WIDTH */
+.page__content, .page__main {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-left: 0 !important;
+}
+
+/* 3. Force avatar to be a small circle (Just in case it ever shows up) */
 .author__avatar img {
     max-width: 120px !important;
     max-height: 120px !important;
