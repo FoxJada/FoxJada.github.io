@@ -45,7 +45,8 @@ How does cooling rate (water quenching vs. furnace cooling) influence the hardne
 [View Poster PDF](/MSE_Sophomore_Design_Poster.jpg)
 
 ---
-
+### Targeted Reduction of Glutamate Excitotoxicity and Oxidative Stress in Amyotrophic Lateral Sclerosis (ALS)
+*MSE 3700 Biomaterials Group Project • UConn • Spring 2026*
 
 **Objective:**
 How can biomaterial-based drug delivery systems be engineered to simultaneously mitigate glutamate excitotoxicity and oxidative stress—two key pathological mechanisms in ALS progression?
