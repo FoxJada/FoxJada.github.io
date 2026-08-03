@@ -1,6 +1,8 @@
 ---
+layout: single
+title: About Me
 permalink: /
-title: "About Me"
+author_profile: false
 ---
 
 I'm a Materials Science & Engineering student at the University of Connecticut with R&D co-op experience at Entegris. I'm interested in semiconductor materials, failure analysis, process engineering, and the intersection of materials science with manufacturing.
