@@ -132,7 +132,6 @@ How can a gel electrophoresis system be engineered to reliably separate and anal
 [View my Mars Exhibition Project Presentation](/Mars_Exhibition_Project.pdf)
 
 ---
----
 layout: post
 title: "CRB Air Filter: Ventilation & Filtration System"
 date: 2026-08-03
@@ -147,7 +146,7 @@ Designed to test previously built CRB ventilation boxes by filtering polluted ai
 - **Air Sealing:** Applied duct tape to prevent air leakage, ensuring the system maintained structural integrity.
 - **Fan Support:** Custom-cut cardboard packaging into a "headboard" support to stabilize the fan and allow secure connection to the filters.
 
-**[⬇️ View the full slide deck (PDF)](/Engineering%20Portfolio-%20CRB%20Air%20Filter.pdf)**
+[⬇️ View the full slide deck (PDF)](/Engineering%20Portfolio-%20CRB%20Air%20Filter.pdf)
 
 ---
 
