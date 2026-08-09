@@ -87,7 +87,7 @@ Wrote a 12-page literature review examining PMMA's structure-property relationsh
 ---
 
 ### Targeted Reduction of Glutamate Excitotoxicity and Oxidative Stress in ALS
-*MSE 3700 Biomaterials Group Project | UConn | Spring 2026*
+*MSE 3700 Biomaterials Group Project | UConn | January 2026 - May 2026*
 
 **Objective:** How can biomaterial based drug delivery systems be engineered to simultaneously mitigate glutamate excitotoxicity and oxidative stress two key pathological mechanisms in ALS progression?
 
