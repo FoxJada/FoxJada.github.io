@@ -12,9 +12,11 @@ Through coursework, research projects, and industry co-op experiences, I have de
 
 ## Resume
 
-- /Jada_Fox_Manufacturing_Resume.pdf
-- [📄 R&D Resume](/Jada_Fox_RD_Resume
-  
+[📄 Manufacturing Resume](/Jada_Fox_Manufacturing_imary }
+
+[📄 R&D Resume](/Jada_Fox_RD_Resume.pdf){: .btn
+
+
 ## Research & Projects
 
 ### PMMA: Structure, Processing, and Applications
