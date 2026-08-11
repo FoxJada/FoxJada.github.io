@@ -13,7 +13,7 @@ Through research projects and industry co-op experiences, I have developed skill
 ## Research & Projects
 
 ### PMMA: Structure, Processing, and Applications
-*Independent Study, UConn Dept. of Materials Science & Engineering | Spring 2026*
+*Independent Study, UConn Dept. of Materials Science & Engineering | Jan 2026 - May 2026*
 
 A 12-page literature review examining PMMA's structure–property relationships and its dual role in orthopedic bone cement and semiconductor e-beam lithography.
 
@@ -26,7 +26,7 @@ A 12-page literature review examining PMMA's structure–property relationships 
 ---
 
 ### Targeted Reduction of Glutamate Excitotoxicity and Oxidative Stress in ALS
-*MSE 3700 Biomaterials Group Project | UConn | Spring 2026*
+*MSE 3700 Biomaterials Group Project | UConn | Jan 2026 - May 2026*
 
 A collaborative research paper investigating therapeutic strategies for ALS through the targeted reduction of glutamate excitotoxicity and oxidative stress.
 
