@@ -12,7 +12,7 @@ Through coursework, research projects, and industry co-op experiences, I have de
 
 ## Resume
 
-[📄 Manufacturing Resume](/Jada_Fox_Manufacturing.pdf) 
+[📄 Manufacturing Resume](/Jada_Fox_Manufacturing_Resume.pdf) 
 - Highlights process engineering, manufacturing, failure analysis, and semiconductor industry experience.
   
 [📄 R&D Resume](/Jada_Fox_RD_Resume.pdf)
