@@ -5,6 +5,8 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
+This portfolio highlights research, technical writing, and engineering projects completed through coursework, independent study, and collaborative team experiences.
+
 ## Research Papers
 
 ### PMMA: Structure, Processing, and Applications in Biomedicine and Semiconductor Engineering                    
