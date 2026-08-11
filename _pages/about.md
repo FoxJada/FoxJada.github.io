@@ -1,9 +1,9 @@
 ---
 layout: single
+author_profile: true
 title: About Me
 permalink: /
 ---
-
 
 
 I'm a Materials Science & Engineering student at the University of Connecticut with experience in semiconductor materials, process engineering, failure analysis, and research & development. My interests include advanced materials characterization, semiconductor manufacturing, and applying materials science to solve real-world engineering challenges.
