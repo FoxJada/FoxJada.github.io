@@ -7,7 +7,7 @@ permalink: /portfolio/
 ## Research Papers
 
 ### PMMA: Structure, Processing, and Applications in Biomedicine and Semiconductor Engineering                    
-*Independent Study, UConn Department of Materials Science & Engineering | Spring 2026*
+*Independent Study, UConn Department of Materials Science & Engineering | Jan 2026 - May 2026*
 
 Wrote a 12-page literature review examining PMMA's structure-property relationships and its dual role in orthopedic bone cement and semiconductor e-beam lithography.
 
@@ -44,7 +44,7 @@ Wrote a 12-page literature review examining PMMA's structure-property relationsh
 ---
 
 ### CRB Air Filter: Ventilation & Filtration System
-*Engineering 1166 Team Project | Spring 2026*
+*Engineering 1166 Team Project | Jan 2024 - May 2024*
 
 **Overview:** Designed and assembled a CRB ventilation filtration system to remove particulate pollution from enclosed rooms, focusing on structural integrity, air sealing, and fan stability. Worked as part of a multidisciplinary engineering team to validate the system's effectiveness through environmental testing.
 
@@ -66,7 +66,7 @@ Wrote a 12-page literature review examining PMMA's structure-property relationsh
 ---
 
 ### Testing Heat-Treated 1080 Steel
-*Sophomore Design Project | UConn Materials Science & Engineering | Co-authors: Veronica Ayen*
+*Sophomore Design Project | UConn Materials Science & Engineering | Co-authors: Veronica Ayen | Aug 2025 - Dec 2025*
 
 **Overview:** Investigated how cooling rate affects the microstructure and mechanical properties of 1080 steel to understand the structure-property-processing relationships in carbon steels.
 
@@ -109,7 +109,7 @@ Wrote a 12-page literature review examining PMMA's structure-property relationsh
 ## Professional Experience
 
 ### Student Lab and Field Analyst Assistant
-*Institute of Material Science and Sustainability (IMSS), UConn | May 2025 – Present*
+*Institute of Material Science and Sustainability (IMSS), UConn | May 2025 – Dec 2025*
 
 **Overview:** Investigated thermal effects on M50 steel microstructure to optimize retained austenite stability through controlled heat treatments, gaining hands on experience in steel processing, metallurgical techniques, and lab troubleshooting.
 
