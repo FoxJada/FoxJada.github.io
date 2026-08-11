@@ -12,10 +12,11 @@ Through coursework, research projects, and industry co-op experiences, I have de
 
 ## Resume
 
-[📄 Manufacturing Resume](/Jada_Fox_Manufacturing.pdf) {: .btn 
-
-[📄 R&D Resume](/Jada_Fox_RD_Resume.pdf){: .btn
-
+[📄 Manufacturing Resume](/Jada_Fox_Manufacturing.pdf) 
+- Highlights process engineering, manufacturing, failure analysis, and semiconductor industry experience.
+  
+[📄 R&D Resume](/Jada_Fox_RD_Resume.pdf)
+- Highlights materials science research, technical projects, and research & development experience.
 
 ## Research & Projects
 
