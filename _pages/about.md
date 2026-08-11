@@ -10,7 +10,7 @@ I'm a Materials Science & Engineering student at the University of Connecticut w
 
 Through research projects and industry co-op experiences, I have developed skills in materials analysis, data-driven problem solving, and cross-functional collaboration. I am particularly interested in the intersection of materials science, manufacturing, and emerging technologies.
   
-## THIS IS A TEST
+## Research & Projects
 
 ### PMMA: Structure, Processing, and Applications
 *Independent Study, UConn Dept. of Materials Science & Engineering | Jan 2026 - May 2026*
