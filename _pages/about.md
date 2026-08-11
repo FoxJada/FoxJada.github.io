@@ -12,7 +12,11 @@ Through coursework, research projects, and industry co-op experiences, I have de
 
 ## Resume
 
-- [Manufacturing Resume](/files/Jada_Fox%20Resume%20(Manufacturingiles/Jada%20(R&D).pdf
+Choose the version most relevant to your interests:
+
+- [📄 Manufacturing Resume](/files/Jada_ing).pdf
+- [📄 R&D Resume](/files/Jada_Fox%20Resume%20(R&D).
+
   
 ## Research & Projects
 
