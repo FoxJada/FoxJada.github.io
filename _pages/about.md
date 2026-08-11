@@ -6,9 +6,10 @@ permalink: /
 
 
 
-I'm a Materials Science & Engineering student at the University of Connecticut with experience in semiconductor materials, process engineering, failure analysis, and research & development. My interests include advanced materials characterization, semiconductor manufacturing, and translating scientific research into practical engineering solutions.
+I'm a Materials Science & Engineering student at the University of Connecticut with experience in semiconductor materials, process engineering, failure analysis, and research & development. My interests include advanced materials characterization, semiconductor manufacturing, and applying materials science to solve real-world engineering challenges.
 
-Through research projects and industry co-op experiences, I have developed skills in materials analysis, data-driven problem solving, and cross-functional collaboration. I am particularly interested in the intersection of materials science, manufacturing, and emerging technologies.
+Through coursework, research projects, and industry co-op experiences, I have developed skills in materials analysis, data-driven problem solving, and technical communication. I am actively building expertise in semiconductor processing, failure analysis, and emerging materials technologies. 
+
   
 ## Research & Projects
 
