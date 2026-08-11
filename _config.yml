@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Jada Fox | Materials Science & Engineering Portfolio"
 title_separator          : "-"
-name                     : &name "Jada Fox"
-description              : &description "Materials Science & Engineering student at UConn with R&D co-op experience at Entegris."
+name                     : "Jada Fox"
+description              : "Materials Science & Engineering student at UConn with R&D co-op experience at Entegris."
 url                      : "https://foxjada.github.io"
 baseurl                  : ""
 repository               : "FoxJada/FoxJada.github.io"
@@ -28,7 +28,7 @@ author:
   location               : "Meriden, CT"
   employer               : "University of Connecticut"
   email                  : "jada.fox@uconn.edu"
-  linkedin               : "jada-fox-aba5432b"
+  linkedin               : "jada-fox-aba5432b7"
   github                 : "FoxJada"
   
 main:
@@ -42,7 +42,7 @@ social:
     url: "https://github.com/FoxJada"
     icon: "fab fa-github"
   - title: "LinkedIn"
-    url: "https://linkedin.com/in/jada-fox-aba5432b"
+    url: "https://linkedin.com/in/jada-fox-aba5432b7"
     icon: "fab fa-linkedin"
 
 # Plugins
