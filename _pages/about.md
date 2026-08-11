@@ -11,8 +11,7 @@ I'm a Materials Science & Engineering student at the University of Connecticut w
 Through coursework, research projects, and industry co-op experiences, I have developed skills in materials analysis, data-driven problem solving, and technical communication. I am actively building expertise in semiconductor processing, failure analysis, and emerging materials technologies. 
 
 ## Resume
-
-[📄 Manufacturing Resume](/Jada_Fox_Manufacturing_Resume.pdf) 
+ [📄 Manufacturing Resume](/Jada_Fox_Manufacturing_Resume.pdf)
 - Highlights process engineering, manufacturing, failure analysis, and semiconductor industry experience.
   
 [📄 R&D Resume](/Jada_Fox_RD_Resume.pdf)
